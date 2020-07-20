@@ -4,7 +4,7 @@ import math
 Profe en este archivo van a estar todos los problemas propuestos, separando el problema por comentarios
 pero todos van a estar dentro del archivo.
 """
-"""
+
 print("1) Realizar la carga del lado de un cuadrado, mostrar por pantalla el perímetro del mismo \n (El perímetro de un cuadrado se calcula multiplicando el valor del lado por cuatro)")
 
 ladoC = float(input("Type one side of the square: "))
@@ -695,6 +695,5 @@ def getNumber():
         return False
     
 printTalbe(getNumber())
-"""
 
 print("Realizar un programa que lea los lados de n triángulos, e informar: a) De cada uno de ellos, qué tipo de triángulo es: equilátero (tres lados iguales), isósceles (dos lados iguales), o escaleno (ningún lado igual) b) Cantidad de triángulos de cada tipo.")
